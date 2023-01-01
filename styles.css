@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+
+#dropdown{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    margin: 10%;
+}
+
+#results{
+    margin: 2% 0 1% 0;
+}
+
+#filterBtn{
+    padding: 0.5% 1% 0.5% 1%;
+    font: 2rem;
+}
